@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(182, 177, 177);
+    margin: 0;
+}
+h1, h2 {
+    text-shadow: 2px 2px #444444;
+}
+#principio {
+    text-align: center;
+}
+main {
+    padding: 5px;
+    margin: 10px 15px;
+}
+p {
+    padding: 3px 3px;
+    text-align: justify;
+}
+img {
+    display: block;
+}
+.legenda {
+    padding: 1px;
+    font-weight: lighter;
+    font-size: small;
+}
+.imagem #maineimagem {
+    width: 15%;
+    height: 15%;
+
+}
+.imagem #perry {
+    width: 20%;
+    height: 20%;
+}
+.imagem #flor {
+    width: 20%;
+    height: 20%;
+}
+ul, li {
+    text-align: justify
+}
+footer {
+    text-align: center;
+    background-color: black;
+}
+.pezinho {
+    column-count: 1;
+    background-color: black;
+    font-weight: lighter;
+    margin-bottom: 3px;
+}
+.pezinho #info-de-eu {
+    column-span: 1;
+    text-align: center;
+    color: whitesmoke;
+    padding: 5px;
+}
+#tepeguei {
+    float: right;
+    width: 1%;
+    height: 1%;
+}
+#item-especial {
+    font-size: 50px;
+}
